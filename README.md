@@ -1,6 +1,6 @@
 # GAITAR
 
-**GAITAR** The repository includes a series of Jupyter notebooks focused on computational analysis, topic modeling, and keyword-in-context concordance extraction.
+This repository includes a series of Jupyter notebooks focused on computational analysis, topic modeling, and keyword-in-context concordance extraction.
 
 ## Project Goals
 
